@@ -1,0 +1,69 @@
+RRRRRRRRRRRRRRRRR     RRRRRRRRRRRRRRRRR   
+R::::::::::::::::R    R::::::::::::::::R  
+R::::::RRRRRR:::::R   R::::::RRRRRR:::::R 
+RR:::::R     R:::::R  RR:::::R     R:::::R
+  R::::R     R:::::R    R::::R     R:::::R
+  R::::R     R:::::R    R::::R     R:::::R
+  R::::RRRRRR:::::R     R::::RRRRRR:::::R 
+  R:::::::::::::RR      R:::::::::::::RR  
+  R::::RRRRRR:::::R     R::::RRRRRR:::::R 
+  R::::R     R:::::R    R::::R     R:::::R
+  R::::R     R:::::R    R::::R     R:::::R
+  R::::R     R:::::R    R::::R     R:::::R
+RR:::::R     R:::::R  RR:::::R     R:::::R
+R::::::R     R:::::R  R::::::R     R:::::R
+R::::::R     R:::::R  R::::::R     R:::::R
+RRRRRRRR     RRRRRRR  RRRRRRRR     RRRRRRR
+
+RR OFFICIAL (ZE520KL/ZE552KL) - CHANGELOG
+
+====================
+     2018-08-17
+====================
+
+- Official build!
+  Now we have OTA (you can check here: Settings > Configurations > + > Updates)
+  Whenever a new update launch, you'll receive a notification
+
+====================
+     2018-08-16
+====================
+
+Thanks to @vegeto1806:
+- Implemented Hardware Keys configs (you can change the behavior of the hardware keys)
+
+====================
+     2018-08-13
+====================
+
+- Fixed Developer Options (the option was crashing Settings)
+
+Thanks to @planet9:
+- Enabled call recording (Not available in all regions)
+- Fixed displayed battery capacity on the ZE552KL
+- Added more SEPolicy for enforcing SELinux
+- Fixed wifi stats log spam
+- Added the ASUS_Z012DC to the model detection list
+- Added SdFat for FAT and exFAT support
+- Added updated version of the BFQ I/O scheduler
+- Removed asusdebug for a lighter kernel
+- Updated F2FS kernel driver
+- Imported many more kernel improvements
+- Updated vendor blobs to WW-15.0410.1806.68
+- Update to Android 8.1.0_r43, security patch level August 5, 2018
+- Updated kernel to Linux 3.18.118, CAF-Tag LA.UM.6.6.r1-09500-89xx.0
+
+Thanks to @makorn645:
+- Updated Vulkan, Adreno and SDM blobs from tissot
+- Added missing perf and widevine blobs
+- Updated perf blobs from bardock 2.2.0
+- Fixed FM radio speaker audio
+- Even more SEPolicy
+- Optimized shutdown time
+- Added "Swipe up to wake"
+- Added support for power-off alarms
+- Switched default I/O scheduler to BFQ
+- Added the ASUS_Z017D to the model detection list
+- Updated build fingerprint to WW_15.0410.1806.68
+- Misc improvements of the kernel defconfig for more performance
+- Many more misc improvements
