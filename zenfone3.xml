@@ -18,7 +18,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelogs">https://downloads.resurrectionremix.com/zenfone3/RR-O-v6.1.0-20180817-zenfone3-Official-Changelog.txt</ChangelogUrl>
+                description="View Changelog">https://raw.githubusercontent.com/lipebs/RR-OTA/master/Changelog.txt</ChangelogUrl>
             <xdaurl
                 id="xda"
                 title="XDA"
