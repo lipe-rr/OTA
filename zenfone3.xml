@@ -19,6 +19,10 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelogs">https://downloads.resurrectionremix.com/zenfone3/RR-O-v6.1.0-20180817-zenfone3-Official-Changelog.txt</ChangelogUrl>
+            <xdaurl
+                id="xda"
+                title="XDA"
+                description="View XDA Thread">https://forum.xda-developers.com/zenfone-3/development/rom-resurrection-remix-ze520kl-ze552kl-t3792684</xdaurl>
         </zenfone3>
     </Stable>
 </SlimOTA>
