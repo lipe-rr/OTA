@@ -18,6 +18,12 @@ RRRRRRRR     RRRRRRR  RRRRRRRR     RRRRRRR
 RR OFFICIAL (ZE520KL/ZE552KL) - CHANGELOG
 
 ====================
+     2018-08-21
+====================
+
+- Fixed accent colors crash
+
+====================
      2018-08-17
 ====================
 
