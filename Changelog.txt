@@ -18,6 +18,17 @@ RRRRRRRR     RRRRRRR  RRRRRRRR     RRRRRRR
 RR OFFICIAL (ZE520KL/ZE552KL) - CHANGELOG
 
 ====================
+     2018-08-22
+====================
+
+- Fixed kernel info
+- Updated a few translations
+- Merged latest RR and LOS sources changes
+
+Thanks to @makorn645
+- Merged older ZenFone 3 fingerprint (this fixes the ctsProfile on Magisk and passes safetynet check again)
+
+====================
      2018-08-21
 ====================
 
@@ -35,7 +46,7 @@ RR OFFICIAL (ZE520KL/ZE552KL) - CHANGELOG
      2018-08-16
 ====================
 
-Thanks to @vegeto1806:
+Thanks to @vegeto1806
 - Implemented Hardware Keys configs (you can change the behavior of the hardware keys)
 
 ====================
@@ -44,7 +55,7 @@ Thanks to @vegeto1806:
 
 - Fixed Developer Options (the option was crashing Settings)
 
-Thanks to @planet9:
+Thanks to @planet9
 - Enabled call recording (Not available in all regions)
 - Fixed displayed battery capacity on the ZE552KL
 - Added more SEPolicy for enforcing SELinux
@@ -59,7 +70,7 @@ Thanks to @planet9:
 - Update to Android 8.1.0_r43, security patch level August 5, 2018
 - Updated kernel to Linux 3.18.118, CAF-Tag LA.UM.6.6.r1-09500-89xx.0
 
-Thanks to @makorn645:
+Thanks to @makorn645
 - Updated Vulkan, Adreno and SDM blobs from tissot
 - Added missing perf and widevine blobs
 - Updated perf blobs from bardock 2.2.0
