@@ -18,6 +18,18 @@ RRRRRRRR     RRRRRRR  RRRRRRRR     RRRRRRR
 RR OFFICIAL (ZE520KL/ZE552KL) - CHANGELOG
 
 ====================
+     2018-09-05
+====================
+
+- September security patch
+- Added Brazilian Portuguese to AsusParts
+- Merged latest RR and LOS sources changes
+- Fixed color in volume dialog (thanks to @alex9yust)
+
+Thanks to @makorn645
+- Lower vibration levels (for better user experience & durability)
+
+====================
      2018-08-22
 ====================
 
