@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <zenfone3>
-            <Filename>RR-O-v6.1.0-20180905-zenfone3-Official.zip</Filename>
+            <Filename>RR-O-v6.2.1-20181013-zenfone3-Final.zip</Filename>
             <LatestBuildUrl
                 id="latestbuild"
                 title="Latest Build"
-                description="Download Latest Build">http://downloads.resurrectionremix.com/zenfone3/RR-O-v6.1.0-20180905-zenfone3-Official.zip</LatestBuildUrl>
+                description="Download Latest Build">http://downloads.resurrectionremix.com/zenfone3/RR-O-v6.2.1-20181013-zenfone3-Final.zip</LatestBuildUrl>
             <BuildUrl
                 id="build"
                 title="Build"

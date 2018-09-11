@@ -1,12 +1,12 @@
-RRRRRRRRRRRRRRRRR     RRRRRRRRRRRRRRRRR   
-R::::::::::::::::R    R::::::::::::::::R  
-R::::::RRRRRR:::::R   R::::::RRRRRR:::::R 
+RRRRRRRRRRRRRRRRR     RRRRRRRRRRRRRRRRR
+R::::::::::::::::R    R::::::::::::::::R
+R::::::RRRRRR:::::R   R::::::RRRRRR:::::R
 RR:::::R     R:::::R  RR:::::R     R:::::R
   R::::R     R:::::R    R::::R     R:::::R
   R::::R     R:::::R    R::::R     R:::::R
-  R::::RRRRRR:::::R     R::::RRRRRR:::::R 
-  R:::::::::::::RR      R:::::::::::::RR  
-  R::::RRRRRR:::::R     R::::RRRRRR:::::R 
+  R::::RRRRRR:::::R     R::::RRRRRR:::::R
+  R:::::::::::::RR      R:::::::::::::RR
+  R::::RRRRRR:::::R     R::::RRRRRR:::::R
   R::::R     R:::::R    R::::R     R:::::R
   R::::R     R:::::R    R::::R     R:::::R
   R::::R     R:::::R    R::::R     R:::::R
@@ -18,13 +18,54 @@ RRRRRRRR     RRRRRRR  RRRRRRRR     RRRRRRR
 RR OFFICIAL (ZE520KL/ZE552KL) - CHANGELOG
 
 ====================
+     2018-10-13
+====================
+
+- Updated kernel to Linux v3.18.124 / CAF Tag LA.UM.6.6.r1-09900-89xx.0
+- Updated RR/LOS sources
+
+Thanks to @antoine-g
+- Fixed a memory leak on ipacm
+
+====================
+     2018-10-02
+====================
+
+- October security patch
+- Removed AudioFX
+- Updated Dialer
+- Updated data-ipa-cfg-mgr (WLAN/IPv4/IPv6) to CAF Tag LA.UM.6.6.2.r1-05500-89xx.0
+
+====================
+     2018-09-27
+====================
+
+- Updated kernel to Linux v3.18.123 / CAF-Tag LA.UM.6.6.r1-09800-89xx.0
+- New DPI for ZE520KL (420 -> 424)
+
+Thanks to @makorn645
+- Update brightness values from stock
+- Improved volume in call / other medias
+
+Thanks to @vegeto1806
+- add some sepolicy to default camera to fix denials
+
+====================
+     2018-09-11
+====================
+
+- Fixed Bluetooth
+- Added Japanese RR-strings (thanks to @mamarama9904)
+- Latest RR source
+- Updated kernel to Linux v3.18.122 / CAF-Tag LA.UM.6.6.r1-09700-89xx.0
+
+====================
      2018-09-05
 ====================
 
 - September security patch
 - Added Brazilian Portuguese to AsusParts
 - Merged latest RR and LOS sources changes
-- Fixed color in volume dialog (thanks to @alex9yust)
 
 Thanks to @makorn645
 - Lower vibration levels (for better user experience & durability)
